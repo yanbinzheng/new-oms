@@ -1,0 +1,59 @@
+.pannel-body{
+	width: 1200px;
+	height:auto;
+	border:2px solid darkgrey;
+}
+.f-basic-n{
+	margin-left: 20px;
+}
+.title1{
+	width: 150px;
+	height: 50px;
+	background-color:gainsboro;
+	text-align: center;
+	line-height: 50px;
+	display:inline-block;
+}
+#createTime,#endTime,#productCode{
+	background-color: gainsboro;
+	border-radius: 5px;
+}
+.title2{
+	width: 450px;
+	height: 50px;
+	background-color:gainsboro;
+	text-align: center;
+	line-height: 50px;
+	display: inline-block;
+}
+#plus-gif{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: gainsboro;
+}
+.circle-gif{
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: deepskyblue;
+}
+.line-gif{
+	display: inline-block;
+	width: 2px;
+	height: 60px;
+	background-color:deepskyblue;
+}
+.next-step{
+	display: inline-block;
+	width: 24px;
+}
+.up-gif,.down-gif{
+	width: 20px;
+	height: 25px;
+}
+.edit{
+	color: blue;
+	text-decoration: none;
+}
